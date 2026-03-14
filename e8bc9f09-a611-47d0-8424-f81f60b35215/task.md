@@ -1,0 +1,6 @@
+# Coco's 40th Birthday Dinner Planning
+
+- [x] Write a copy-pasteable text message summary for the group with a clear recommendation.
+- [x] Generate evocative images for the restaurant vibes.
+- [x] Create a one-page HTML "sell sheet" with images and details for the group to review.
+- [x] Add Google Maps links to the bottom of each card
